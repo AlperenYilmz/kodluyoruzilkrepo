@@ -30,6 +30,8 @@ code .
 -----------------------------------------------------------------------------------------------------------------
 ## Contributing
 
+### Proje resmi aşağıdaki gibidir.
+
 ![proje resmi](https://github.com/AlperenYilmz/kodluyoruzilkrepo/blob/main/odev_resim.png)
 
 ### Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
