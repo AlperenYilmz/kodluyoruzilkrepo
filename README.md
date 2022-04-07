@@ -41,3 +41,9 @@ code .
 
 
 ### [MIT](https://choosealicense.com/licenses/mit/#)
+
+-----------------------------------------------------------------------------------------------------------------
+
+## Patika Profilim
+
+### https://app.patika.dev/alowishus
