@@ -16,7 +16,7 @@
 ## Usage
 
 
-### Projeyi klonladıktan sonra Visual Studio Code programında açyoruz.
+### Projeyi klonladıktan sonra Visual Studio Code programında açıyoruz.
 
 
 ### Linux için:
