@@ -16,7 +16,7 @@
 ## Usage
 
 
-### Projeyi klonladıktan sonra Visual Studio Code programında açyoruz.
+### Projeyi klonladıktan sonra Visual Studio Code programında açıyoruz.
 
 
 ### Linux için:
@@ -41,3 +41,9 @@ code .
 
 
 ### [MIT](https://choosealicense.com/licenses/mit/#)
+
+-----------------------------------------------------------------------------------------------------------------
+
+## Patika Profilim
+
+### https://app.patika.dev/alowishus
